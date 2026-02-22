@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ukladvaljaren
+Comment=Choose clothes by weather for children
+Comment[sv]=Välj kläder efter väder
+Exec=kladvaljaren
+Icon=se.danielnylander.kladvaljaren
+Type=Application
+Categories=Education;Accessibility;
