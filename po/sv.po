@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the kladvaljaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kladvaljaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:21+0100\n"
+"PO-Revision-Date: 2026-02-22 16:23+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305248/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/kladvaljaren/main.py:20
+msgid "Sunny"
+msgstr "Soligt"
+
+#: src/kladvaljaren/main.py:20
+msgid "T-shirt"
+msgstr "T-shirt"
+
+#: src/kladvaljaren/main.py:20
+msgid "Shorts"
+msgstr "Kortbyxor"
+
+#: src/kladvaljaren/main.py:20
+msgid "Sandals"
+msgstr "Sandaler"
+
+#: src/kladvaljaren/main.py:20
+msgid "Sunhat"
+msgstr "Solhatt"
+
+#: src/kladvaljaren/main.py:21
+msgid "Rainy"
+msgstr "Regnigt"
+
+#: src/kladvaljaren/main.py:21
+msgid "Rain jacket"
+msgstr "Regnjacka"
+
+#: src/kladvaljaren/main.py:21
+msgid "Rain pants"
+msgstr "Regnbyxor"
+
+#: src/kladvaljaren/main.py:21
+msgid "Rubber boots"
+msgstr "Gummistövlar"
+
+#: src/kladvaljaren/main.py:21
+msgid "Umbrella"
+msgstr "Paraply"
+
+#: src/kladvaljaren/main.py:22
+msgid "Cold"
+msgstr "Kallt"
+
+#: src/kladvaljaren/main.py:22
+msgid "Winter jacket"
+msgstr "Vinterjacka"
+
+#: src/kladvaljaren/main.py:22
+msgid "Warm pants"
+msgstr "Varma byxor"
+
+#: src/kladvaljaren/main.py:22
+msgid "Boots"
+msgstr "Stövlar"
+
+#: src/kladvaljaren/main.py:22
+msgid "Hat"
+msgstr "Mössa"
+
+#: src/kladvaljaren/main.py:22
+msgid "Gloves"
+msgstr "Vantar"
+
+#: src/kladvaljaren/main.py:22
+msgid "Scarf"
+msgstr "Halsduk"
+
+#: src/kladvaljaren/main.py:23
+msgid "Windy"
+msgstr "Blåsigt"
+
+#: src/kladvaljaren/main.py:23
+msgid "Windbreaker"
+msgstr "Vindjacka"
+
+#: src/kladvaljaren/main.py:23
+msgid "Long pants"
+msgstr "Långbyxor"
+
+#: src/kladvaljaren/main.py:23 src/kladvaljaren/main.py:24
+msgid "Sneakers"
+msgstr "Gympadojor"
+
+#: src/kladvaljaren/main.py:24
+msgid "Cloudy"
+msgstr "Molnigt"
+
+#: src/kladvaljaren/main.py:24
+msgid "Sweater"
+msgstr "Tröja"
+
+#: src/kladvaljaren/main.py:24
+msgid "Jeans"
+msgstr "Jeans"
+
+#: src/kladvaljaren/main.py:30 src/kladvaljaren/main.py:100
+msgid "Klädväljaren"
+msgstr "Klädväljaren"
+
+#: src/kladvaljaren/main.py:36
+msgid "About"
+msgstr "Om"
+
+#: src/kladvaljaren/main.py:43
+msgid "What is the weather like?"
+msgstr "Vad är det för väder?"
+
+#: src/kladvaljaren/main.py:87
+msgid "You should wear:"
+msgstr "Du borde ta på dig:"
+
+#: src/kladvaljaren/main.py:103
+msgid "Choose clothes by weather"
+msgstr "Välj kläder efter väder"
