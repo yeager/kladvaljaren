@@ -27,7 +27,7 @@ WEATHER = [
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('Klädväljaren'))
+        self.set_title(_('Clothes Chooser'))
         self.set_default_size(450, 500)
 
         header = Adw.HeaderBar()
@@ -97,7 +97,7 @@ class App(Adw.Application):
         super().__init__(application_id='se.danielnylander.kladvaljaren')
         self.connect('activate', lambda a: MainWindow(application=a).present())
         about = Gio.SimpleAction.new('about', None)
-        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Klädväljaren'),
+        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Clothes Chooser'),
             application_icon=APP_ID, version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/kladvaljaren', license_type=Gtk.License.GPL_3_0,
             comments=_('Choose clothes by weather')).present(self.get_active_window()))

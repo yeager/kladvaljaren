@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Ukladvaljaren
+Name=Clothes Chooser
+Name[sv]=Klädväljaren
 Comment=Choose clothes by weather for children
 Comment[sv]=Välj kläder efter väder
 Exec=kladvaljaren
