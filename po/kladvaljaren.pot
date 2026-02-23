@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the kladvaljaren package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: kladvaljaren\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 20:04+0100\n"
+"POT-Creation-Date: 2026-02-23 08:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,104 +17,8 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/kladvaljaren/main.py:20
-msgid "Sunny"
-msgstr ""
-
-#: src/kladvaljaren/main.py:20
-msgid "T-shirt"
-msgstr ""
-
-#: src/kladvaljaren/main.py:20
-msgid "Shorts"
-msgstr ""
-
-#: src/kladvaljaren/main.py:20
-msgid "Sandals"
-msgstr ""
-
-#: src/kladvaljaren/main.py:20
-msgid "Sunhat"
-msgstr ""
-
-#: src/kladvaljaren/main.py:21
-msgid "Rainy"
-msgstr ""
-
-#: src/kladvaljaren/main.py:21
-msgid "Rain jacket"
-msgstr ""
-
-#: src/kladvaljaren/main.py:21
-msgid "Rain pants"
-msgstr ""
-
-#: src/kladvaljaren/main.py:21
-msgid "Rubber boots"
-msgstr ""
-
-#: src/kladvaljaren/main.py:21
-msgid "Umbrella"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Cold"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Winter jacket"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Warm pants"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Boots"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Hat"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Gloves"
-msgstr ""
-
-#: src/kladvaljaren/main.py:22
-msgid "Scarf"
-msgstr ""
-
-#: src/kladvaljaren/main.py:23
-msgid "Windy"
-msgstr ""
-
-#: src/kladvaljaren/main.py:23
-msgid "Windbreaker"
-msgstr ""
-
-#: src/kladvaljaren/main.py:23
-msgid "Long pants"
-msgstr ""
-
-#: src/kladvaljaren/main.py:23 src/kladvaljaren/main.py:24
-msgid "Sneakers"
-msgstr ""
-
-#: src/kladvaljaren/main.py:24
-msgid "Cloudy"
-msgstr ""
-
-#: src/kladvaljaren/main.py:24
-msgid "Sweater"
-msgstr ""
-
-#: src/kladvaljaren/main.py:24
-msgid "Jeans"
-msgstr ""
-
 #: src/kladvaljaren/main.py:30 src/kladvaljaren/main.py:100
-msgid "Clothes Chooser"
+msgid "Clothing Chooser"
 msgstr ""
 
 #: src/kladvaljaren/main.py:36
