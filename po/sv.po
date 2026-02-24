@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kladvaljaren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:21+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:23+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305248/sv/)\n"
@@ -31,7 +31,7 @@ msgstr "T-shirt"
 
 #: src/kladvaljaren/main.py:20
 msgid "Shorts"
-msgstr "Kortbyxor"
+msgstr "Shorts"
 
 #: src/kladvaljaren/main.py:20
 msgid "Sandals"
@@ -63,7 +63,7 @@ msgstr "Paraply"
 
 #: src/kladvaljaren/main.py:22
 msgid "Cold"
-msgstr "Kallt"
+msgstr "Kyligt"
 
 #: src/kladvaljaren/main.py:22
 msgid "Winter jacket"
@@ -79,7 +79,7 @@ msgstr "Stövlar"
 
 #: src/kladvaljaren/main.py:22
 msgid "Hat"
-msgstr "Mössa"
+msgstr "Hatt"
 
 #: src/kladvaljaren/main.py:22
 msgid "Gloves"
@@ -103,7 +103,7 @@ msgstr "Långbyxor"
 
 #: src/kladvaljaren/main.py:23 src/kladvaljaren/main.py:24
 msgid "Sneakers"
-msgstr "Gympadojor"
+msgstr "Gympaskor"
 
 #: src/kladvaljaren/main.py:24
 msgid "Cloudy"
@@ -117,22 +117,39 @@ msgstr "Tröja"
 msgid "Jeans"
 msgstr "Jeans"
 
-#: src/kladvaljaren/main.py:30 src/kladvaljaren/main.py:100
-msgid "Klädväljaren"
+#: src/kladvaljaren/main.py:30 src/kladvaljaren/main.py:159
+#: src/kladvaljaren/main.py:167
+msgid "Clothing Chooser"
 msgstr "Klädväljaren"
 
-#: src/kladvaljaren/main.py:36
+#: src/kladvaljaren/main.py:44
+msgid "Kladvaljaren"
+msgstr "Kladväljaren"
+
+#: src/kladvaljaren/main.py:50
 msgid "About"
 msgstr "Om"
 
-#: src/kladvaljaren/main.py:43
+#: src/kladvaljaren/main.py:57
 msgid "What is the weather like?"
 msgstr "Vad är det för väder?"
 
-#: src/kladvaljaren/main.py:87
+#: src/kladvaljaren/main.py:101
 msgid "You should wear:"
 msgstr "Du borde ta på dig:"
 
-#: src/kladvaljaren/main.py:103
+#: src/kladvaljaren/main.py:140
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/kladvaljaren/main.py:162
 msgid "Choose clothes by weather"
 msgstr "Välj kläder efter väder"
+
+#: src/kladvaljaren/main.py:173
+msgid "Description here"
+msgstr "Beskrivning här"
+
+#: src/kladvaljaren/main.py:175
+msgid "Thanks to"
+msgstr "Tack till"
